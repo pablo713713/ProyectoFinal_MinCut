@@ -1,0 +1,9 @@
+﻿  ProyectoFinal_MinCut.cpp
+D:\Universidad\1-2024\Estructura_de_datos\ProyectoFinal_MinCut\ProyectoFinal_MinCut\ProyectoFinal_MinCut\Grafo.h(47,51): warning C4267: 'argumento': conversión de 'size_t' a '_Ty'; posible pérdida de datos
+          with
+          [
+              _Ty=int
+          ]
+D:\Universidad\1-2024\Estructura_de_datos\ProyectoFinal_MinCut\ProyectoFinal_MinCut\ProyectoFinal_MinCut\ProyectoFinal_MinCut.cpp(4,1): warning C4005: 'TAM': redefinición de macro
+D:\Universidad\1-2024\Estructura_de_datos\ProyectoFinal_MinCut\ProyectoFinal_MinCut\ProyectoFinal_MinCut\Lista1.h(3,1): message : vea la definición anterior de 'TAM'
+  ProyectoFinal_MinCut.vcxproj -> D:\Universidad\1-2024\Estructura_de_datos\ProyectoFinal_MinCut\ProyectoFinal_MinCut\x64\Debug\ProyectoFinal_MinCut.exe
